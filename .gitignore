@@ -210,5 +210,5 @@ __marimo__/
 
 .vscode
 
-tfenv/
+nums/
 mnist_tuner/
